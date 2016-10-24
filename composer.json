@@ -1,0 +1,16 @@
+{
+	"name": "contentasaurus/jquery-populate",
+	"description": "http://davestewart.io/plugins/jquery/jquery-populate/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Dave Stewart"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4":{
+			"contentasaurus\\": "src/"
+		}
+	}
+}
