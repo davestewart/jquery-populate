@@ -1,0 +1,20 @@
+{
+  "name": "jquery-populate",
+  "version": "1.0.0",
+  "description": "Provides a way to fill in a form with a JSON object",
+  "main": "dist/js/jquery-populate.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentasaurus/jquery-populate.git"
+  },
+  "keywords": [
+    "node",
+    "jquery"
+  ],
+  "author": "Dave Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contentasaurus/jquery-populate/issues"
+  },
+  "homepage": "https://github.com/contentasaurus/jquery-populate#readme"
+}
